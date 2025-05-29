@@ -1,0 +1,5 @@
+aiosqlite==0.21.0
+asyncpg==0.30.0
+chainlit==2.5.5
+ollama==0.4.8
+SQLAlchemy==2.0.41
